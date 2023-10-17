@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I'm actively looking for a job right now<br>👯 We can team up and do a project together<br>🤝 I’m looking for help with a design for my projects<br>🌱 I’m currently learning Android(Kotlin)<br>⚡ I really enjoy developing applications in the area of mental health
+🔭 I'm actively looking for a job right now<br>👯 We can team up and do a project together <br>🌱 I’m currently learning Android(Kotlin)<br>⚡ I really enjoy developing applications in the area of mental health
 
 
 ## 🌐 Socials:
@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=greemoid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)-->
