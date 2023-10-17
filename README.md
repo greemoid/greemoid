@@ -26,12 +26,3 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 **Android, Kotlin, Java, Xml/Jetpack Compose, Room, Retrofit, Coroutines, MVVM, Clean Architecture, SOLID, Dagger/Hilt, Firebase, WebView, LiveData/Flow, Jetpack Navigation, Junit, Mockk, Espresso, Glide**
 
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=greemoid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=greemoid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=greemoid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-[![](https://visitcount.itsvg.in/api?id=greemoid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)-->
