@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/greemoid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/illiapalamarchuk)  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/illiapalamarchuk)  [![Djinni](https://img.shields.io/badge/Djinni-%230077B5.svg?logo=Djinni&logoColor=white)](https://djinni.co/q/667609c80a/)  
 
 # 💻 Tech Stack:
-**Flutter, Dart, Bloc, OOP, SOLID, dio, hive/isar, SQLite, Drift, TMA, Android, Kotlin**
+**Flutter, Dart, Bloc, OOP, SOLID, get_it, dio, hive/isar, SQLite, Drift, TMA, Android, Kotlin**
 
