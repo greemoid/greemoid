@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 **Flutter, Dart, Bloc, OOP, SOLID, get_it, dio, hive/isar, SQLite, Drift, TMA, Android, Kotlin**
 
+[![Illia Palamarchuk profile views](https://u8views.com/api/v1/github/profiles/63496492/views/day-week-month-total-count.svg)](https://u8views.com/github/greemoid)
